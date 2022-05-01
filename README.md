@@ -9,4 +9,15 @@ Thank you for taking time to view my GitHub profile.
 
 - Technical Writer: I write user guides, story guides, user manuals and API documentations for software products. I also write about machine learning on my [personal blog](https://yourdataguy.org) to help democratize AI knowledge to many people. 
 
+## Skills
+- Python
+- SQL (MySQL, PostgreSQL,SQLite)
+- Django
+- Flask
+- Tensorflow
+- Sciki-learn
+- AWS
+- MongoDB
+- Neo4j
+
 [![Francis 'GitHub stats](https://github-readme-stats.vercel.app/api?username=fonyango)](https://github.com/fonyango/github-readme-stats)
