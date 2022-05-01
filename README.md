@@ -1,5 +1,10 @@
-### Hi there 👋
+# Hi there 👋
 
-A Data Scientist with skills and knowledge of Data Analytics and Machine Learning. I’m working towards providing data-driven, action-oriented and ethical solutions for businesses, and social impact
+I'm Francis Onyango, an AI Developer and Data Scientist based in Kenya. Thank you for taking time to view my GitHub profile.
+
+# About Me
+
+I have experience in Data Analytics and Machine Learning. I also create content on machine learning on my [personal blog](https://yourdataguy.org). 
+
 
 [![Francis 'GitHub stats](https://github-readme-stats.vercel.app/api?username=fonyango)](https://github.com/fonyango/github-readme-stats)
