@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I'm Francis Onyango, an AI Developer and Data Scientist based in Kenya. Thank you for taking time to view my GitHub profile.
+Hi! My name is Francis Onyango. I am an AI Developer and Data Scientist based in Kenya. 
+Thank you for taking time to view my GitHub profile.
 
 # About Me
 
