@@ -5,7 +5,7 @@ Thank you for taking time to view my GitHub profile.
 
 ## About Me
 
-- Experiened AI Developer: I have experience in Data Analytics and Machine Learning. Talk to me about Intelligent Chatbots, Credit Scoring, Object Detection, Web Scrapping, and Natural Language Processing.
+- AI Developer: I have experience in Data Analytics and Machine Learning. Talk to me about Intelligent Chatbots, Credit Scoring, Object Detection, Web Scrapping, and Natural Language Processing.
 
 - Technical Writer: I write user guides, story guides, user manuals and API documentations for software products. I also write about machine learning on my [personal blog](https://yourdataguy.org) to help democratize AI knowledge to many people. 
 
