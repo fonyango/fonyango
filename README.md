@@ -15,7 +15,7 @@ Thank you for taking time to view my GitHub profile.
 - Django
 - Flask
 - Tensorflow
-- Sciki-learn
+- Scikit-learn
 - AWS
 - MongoDB
 - Neo4j
