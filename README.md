@@ -1,24 +1,21 @@
 ## Hi there 👋
 
-Hi! My name is Francis Onyango. I am an AI Developer and Data Scientist based in Kenya. 
+Hi! My name is Francis Onyango. I am a Data Scientist and Technical writer based in Kenya. 
 Thank you for taking time to view my GitHub profile.
 
 ## About Me
 
-- AI Developer: I have experience in Data Analytics and Machine Learning. Talk to me about Intelligent Chatbots, Credit Scoring, Object Detection, Web Scrapping, and Natural Language Processing.
+- Data Scientist: I have experience in Data Analytics and Machine Learning. Talk to me about Intelligent Chatbots, Credit Scoring, Time Series Analysis, Object Detection, Web Scrapping, and Natural Language Processing.
 
-- Technical Writer: I write user guides, story guides, user manuals and API documentations for software products. I also write about machine learning on my [personal blog](https://yourdataguy.org) to help democratize AI knowledge to many people. 
+- Technical Writer: I write user guides, story guides, user manuals and API documentations for software products. I also write about machine learning on my [medium account]([https://medium.com/@frankonyango.w]) to help democratize data science and analytics knowledge to many people. 
 
-## Skills
-- Python
-- SQL (MySQL, PostgreSQL,SQLite)
-- Django
-- Flask
+## Tech Stack
+- Python (Django & Flask)
+- Relational Databases (MySQL, PostgreSQL,Ms SQL Server)
 - Tensorflow
 - Scikit-learn
-- AWS
+- Amazon Web Services (AWS) and Google Cloud Platform (GCP)
 - MongoDB
-- Neo4j
 
 ## Let's Connect
 - [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)
