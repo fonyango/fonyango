@@ -7,7 +7,7 @@ Thank you for taking time to view my GitHub profile.
 
 - Data Scientist: I have experience in Data Analytics and Machine Learning. Talk to me about Intelligent Chatbots, Credit Scoring, Time Series Analysis, Object Detection, Web Scrapping, and Natural Language Processing.
 
-- Technical Writer: I write user guides, story guides, user manuals and API documentations for software products. I also write about machine learning on my [medium account]([https://medium.com/@frankonyango.w]) to help democratize data science and analytics knowledge to many people. 
+- Technical Writer: I write user guides, story guides, user manuals and API documentations for software products. I also write about machine learning on my [medium account](https://medium.com/@frankonyango.w) to help democratize data science and analytics knowledge to many people. 
 
 ## Tech Stack
 - Python (Django & Flask)
