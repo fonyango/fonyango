@@ -20,8 +20,8 @@ Thank you for taking time to view my GitHub profile.
 - MongoDB
 
 ## Let's Connect
-- [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)  [Twitter](https://twitter.com/FOnyango_) [Kaggle](https://www.kaggle.com/francisonyango)
+- [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)   - [Twitter](https://twitter.com/FOnyango_) - [Kaggle](https://www.kaggle.com/francisonyango)
 
 
-#
+## GitHub Statistics
 [![Francis 'GitHub stats](https://github-readme-stats.vercel.app/api?username=fonyango)](https://github.com/fonyango/github-readme-stats)
