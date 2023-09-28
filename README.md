@@ -24,7 +24,7 @@ Reach me on:
     
 Or connect with me on:
 
-  - [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)   
+  - [Linkedin](https://www.linkedin.com/in/francis-onyango-70825b1a9/)   
   - [Twitter](https://twitter.com/FOnyango_) 
   - [Kaggle](https://www.kaggle.com/francisonyango)
 
