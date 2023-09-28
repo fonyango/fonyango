@@ -12,15 +12,16 @@ Thank you for taking time to view my GitHub profile.
 - Opensource Contributor: I contribute to open source projects including developing tools that can help data professionals excel in their work. Find [cleansummary](https://github.com/fonyango/cleansummary), a Python library that helps get a statistical summary of pandas dataframe on the fly. 
 
 ## Tech Stack
-- Python (Django & Flask)
-- Relational Databases (MySQL, PostgreSQL,Ms SQL Server)
-- Tensorflow
-- Scikit-learn
-- Amazon Web Services (AWS) and Google Cloud Platform (GCP)
-- MongoDB
+- Programming Languages: Python (Django & Flask) & Javascript
+- Relational Databases: MySQL, PostgreSQL, Ms SQLServer
+- NoSQL Databases: MongoDB & Neo4J
+- Cloud Platforms: AWS, GCP & Azure
 
 ## Let's Connect
-- [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)   - [Twitter](https://twitter.com/FOnyango_) - [Kaggle](https://www.kaggle.com/francisonyango)
+- Reach me on : fonyango.w@gmail.com
+- [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)   
+- [Twitter](https://twitter.com/FOnyango_) 
+- [Kaggle](https://www.kaggle.com/francisonyango)
 
 
 ## GitHub Statistics
