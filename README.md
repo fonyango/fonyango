@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-Hi! My name is Francis Onyango. I am a Data Scientist and Technical writer based in Kenya. 
-Thank you for taking time to view my GitHub profile.
+Hi! My name is Francis Onyango. I am a Data Scientist and Technical Writer based in Kenya. 
+Thank you for taking the time to view my profile.
 
 ## About Me
 
@@ -18,10 +18,12 @@ Thank you for taking time to view my GitHub profile.
 - Cloud Platforms: AWS, GCP & Azure
 
 ## Let's Connect
-- Reach me on : fonyango.w@gmail.com
-- [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)   
-- [Twitter](https://twitter.com/FOnyango_) 
-- [Kaggle](https://www.kaggle.com/francisonyango)
+Reach me on:
+  - fonyango.w@gmail.com
+Or connect with me on:
+  - [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)   
+  - [Twitter](https://twitter.com/FOnyango_) 
+  - [Kaggle](https://www.kaggle.com/francisonyango)
 
 
 ## GitHub Statistics
