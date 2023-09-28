@@ -19,9 +19,11 @@ Thank you for taking the time to view my profile.
 
 ## Let's Connect
 Reach me on:
+
   - fonyango.w@gmail.com
     
 Or connect with me on:
+
   - [LinkedIN](https://www.linkedin.com/in/francis-onyango-70825b1a9/)   
   - [Twitter](https://twitter.com/FOnyango_) 
   - [Kaggle](https://www.kaggle.com/francisonyango)
