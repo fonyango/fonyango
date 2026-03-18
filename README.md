@@ -10,7 +10,7 @@ Thank you for taking the time to view my profile.
 - Opensource Contributor: I contribute to open source projects including developing tools that can help data professionals excel in their work. Find [cleansummary](https://github.com/fonyango/cleansummary), a Python library that helps get a statistical summary of a pandas dataframe on the fly. 
 
 ## Tech Stack
-- Programming Languages: Python (Django & Flask) & Javascript
+- Programming Languages: Python, R & Javascript
 - Relational Databases: MySQL, PostgreSQL, Ms SQLServer
 - NoSQL Databases: MongoDB & Neo4J
 - Cloud Platforms: AWS, GCP & Azure
