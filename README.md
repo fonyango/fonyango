@@ -11,6 +11,7 @@ Thank you for taking the time to view my profile.
 
 ## Tech Stack
 - Programming Languages: Python, R & Javascript
+- Backend: FastAPI, Django, Flask
 - Relational Databases: MySQL, PostgreSQL, Ms SQLServer
 - NoSQL Databases: MongoDB & Neo4J
 - Cloud Platforms: AWS, GCP & Azure
